@@ -1,0 +1,2 @@
+# Nested-Funtions-vs-Recursive-Functions-vs-Iterative-Functions
+The inner function clean_name() is hidden from the rest of your program. It only exists and can only be called inside the outer function. But a recursive funtion is a function that calls itself. Last but certainly not the least, Iterative Functions. Instead of calling itself, it uses standard loops (for or while) to do repetitive work 
