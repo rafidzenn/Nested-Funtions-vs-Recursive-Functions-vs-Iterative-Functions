@@ -1,5 +1,5 @@
 # Nested-Funtions-vs-Recursive-Functions-vs-Iterative-Functions
-The inner function clean_name() is hidden from the rest of your program. It only exists and can only be called inside the outer function. But a recursive funtion is a function that calls itself. Last but certainly not the least, Iterative Functions. Instead of calling itself, it uses standard loops (for or while) to do repetitive work 
+The inner function, also called the nested funtion, clean_name() is hidden from the rest of your program. It only exists and can only be called inside the outer function. But a recursive funtion is a function that calls itself. Last but certainly not the least, Iterative Functions. Instead of calling itself, it uses standard loops (for or while) to do repetitive work 
 
 
 1. Pure Functions vs. Impure Functions (Side Effects)
@@ -14,7 +14,7 @@ Higher-Order Functions: Instead of just accepting numbers or strings as inputs, 
 
 
 
-## 4. Closures (The Evolution of Nested Functions)
+## Closures (The Evolution of Nested Functions)
 If you understand nested functions, closures are the next step up. They are a fundamental concept for managing state and data privacy in modern software architecture.
 
 **What is a Closure?** 
