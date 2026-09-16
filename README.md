@@ -13,7 +13,8 @@ This explains how modern languages treat functions as flexible, first-class citi
 Higher-Order Functions: Instead of just accepting numbers or strings as inputs, a higher-order function is a function that accepts another function as an argument, or returns a function as its output.Callback Functions: A callback is the actual function passed into another function to be executed later. It is commonly used in asynchronous programming, telling the system: "Go do this heavy task, and when you are finished, run this callback function."
 
 
-4. ## 4. Closures (The Evolution of Nested Functions)
+
+## 4. Closures (The Evolution of Nested Functions)
 If you understand nested functions, closures are the next step up. They are a fundamental concept for managing state and data privacy in modern software architecture.
 
 **What is a Closure?** 
