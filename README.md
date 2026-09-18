@@ -32,7 +32,7 @@ This shifts the focus from individual functions to overarching programming parad
 Object-Oriented Programming: This approach organizes code around objects that combine data (attributes) and behavior (methods) together. It models the program after real-world things.Functional Programming: This approach avoids combining data and behavior. Instead, it treats code as a sequence of pure mathematical evaluations and emphasizes immutable data (data that cannot be changed after it is created).
 
 
-## 5. Synchronous vs. Asynchronous Functions (`async` / `await`)
+## Synchronous vs. Asynchronous Functions (`async` / `await`)
 Understanding how functions manage time and execution flow is critical when building responsive applications, interacting with databases, or handling network requests.
 
 **Synchronous Functions (Blocking)**
