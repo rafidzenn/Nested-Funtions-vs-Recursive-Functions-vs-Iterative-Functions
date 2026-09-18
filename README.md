@@ -30,3 +30,11 @@ A closure is a nested (inner) function that "remembers" the variables and data f
 This shifts the focus from individual functions to overarching programming paradigms (how you organize your entire codebase).
 
 Object-Oriented Programming: This approach organizes code around objects that combine data (attributes) and behavior (methods) together. It models the program after real-world things.Functional Programming: This approach avoids combining data and behavior. Instead, it treats code as a sequence of pure mathematical evaluations and emphasizes immutable data (data that cannot be changed after it is created).
+
+
+## 5. Synchronous vs. Asynchronous Functions (`async` / `await`)
+Understanding how functions manage time and execution flow is critical when building responsive applications, interacting with databases, or handling network requests.
+
+**Synchronous Functions (Blocking)**
+* **The Concept:** Synchronous functions execute sequentially, one line at a time. The program must wait for a function to finish completely before moving on to the next line of code.
+* **The Drawback:** If a synchronous function takes five seconds to download an image or query a database, the entire application "blocks" or freezes for those five seconds. No other code can run.
